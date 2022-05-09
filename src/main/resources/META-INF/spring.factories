@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zgxh.grpcserver.config.GrpcServerAutoConfiguration
